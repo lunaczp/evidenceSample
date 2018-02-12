@@ -4,7 +4,7 @@
 - VM options 要填写"-classpath your classpath(mostly jar file)"
 - Program Options 要填写命令行参数
 
-以上就是模拟一个真实的执行。
+以下就是模拟一个真实的执行。
 ```
 # 命令行启动的样子：
 $  bin git:(master) ✗ ./evidence deploy user.jks '123456' '123456'
