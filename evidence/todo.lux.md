@@ -15,7 +15,7 @@
     - contract互相调用
 
 ## Java学习
-- log4j log level
-- debug
+- ~~log4j log level~~
+- ~~debug~~
 
 
