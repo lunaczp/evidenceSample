@@ -31,7 +31,7 @@
  					<bean class="org.bcos.channel.handler.ChannelConnections">
  						<property name="connectionsStr">
  							<list> 
-								<value>ab0dde3001d8977556e6a97a36abc9c8293e7cf4064211f658dbea936fe9bf4740453d909c3c2c097e99f6fcbbcc185d38051917aaeb3745f43de8a80d21ce46@10.70.1.234:8545</value>
+								<value>ab0dde3001d8977556e6a97a36abc9c8293e7cf4064211f658dbea936fe9bf4740453d909c3c2c097e99f6fcbbcc185d38051917aaeb3745f43de8a80d21ce46@10.70.1.234:30304</value>
  							</list>
  						</property>
  					</bean>
