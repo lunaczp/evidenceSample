@@ -3,6 +3,7 @@
 ## FISCO-BCOS
 - [示例运行](./run.lux.md)
 - [FISCO 部署、开发、使用指南](./fisco.lux.md)
+- [AMOP](./amop.lux.md)
 
 ## Common
 - [Debug](./debug.lux.md)
